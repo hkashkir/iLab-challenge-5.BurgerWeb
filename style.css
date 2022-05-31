@@ -54,7 +54,7 @@ a{
     animation: slideFromLeft 3s ease-in-out 1;
   }
 .banner-subtitle {
-    font-size: 1.9rem;
+    font-size: 1.8rem;
     font-family: var(--macondoText);
     color: var(--secondaryColor);
     margin-bottom: 1rem;
