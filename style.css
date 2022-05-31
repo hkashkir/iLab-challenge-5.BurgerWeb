@@ -73,7 +73,7 @@ a{
   font-weight: bold;
   outline: 0.3rem solid var(--secondaryColor);
   outline-offset: 4px;
-  margin-top: 3rem;
+  margin-top: 1rem;
   transition: var(--mainTransition);
 }
   .main-btn:hover, .banner-btn:hover {
