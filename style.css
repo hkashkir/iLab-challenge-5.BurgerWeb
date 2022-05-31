@@ -42,7 +42,7 @@ a{
 .banner{
  display: grid;
  place-items: center;
- padding-top: 20%;
+ padding-top: 13%;
  text-align: center;
 }
 .banner-title {
