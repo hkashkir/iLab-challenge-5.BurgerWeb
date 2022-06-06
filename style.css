@@ -36,6 +36,10 @@ a{
   color: var(--mainWhite);
 }
 
+.white1{
+  color:rgb(207, 205, 181)
+}
+
 /* End of helper classe */
 
 
